@@ -58,3 +58,8 @@
 #about-info {
   padding: 20px 30px;
 }
+
+/* Contact */
+#contact-info .box {
+  border-bottom: #444 dotted 1px;
+}
