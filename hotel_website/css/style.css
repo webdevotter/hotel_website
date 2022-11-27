@@ -87,6 +87,10 @@ p {
    font-size: 40px ;
 }
 
+.footer-light {
+  color: #fff;
+}
+
 /* Padding */
 
 .py-1 { padding: 10px 0;}
